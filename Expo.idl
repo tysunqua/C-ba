@@ -1,0 +1,11 @@
+//Expo.IDL
+
+module Exponent
+{ 
+    interface Count
+{ 
+    attribute long x;
+    attribute long y;
+    long expo();
+};
+};
